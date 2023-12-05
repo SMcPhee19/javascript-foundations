@@ -50,7 +50,7 @@ Completing all of these test suites is not necessary, but you should be working 
 - [x] 🎂 [Birthdays](./birthdays)
 - [x] 🗓 [Calendar](./calendar/)
 - [x] 💵 [Vending Machine](./vending-machine/)
-- [ ] 🛗 [Elevator](./elevator/)
+- [x] 🛗 [Elevator](./elevator/)
 - [ ] 📚 [Library](./library)
 - [ ] 🌮 [Taco Stand](./tacoStand/)
 - [ ] 🧶 [Crafting](./crafting/)
