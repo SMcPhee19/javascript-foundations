@@ -50,16 +50,16 @@ Completing all of these test suites is not necessary, but you should be working 
 - [x] 🎂 [Birthdays](./birthdays)
 - [x] 🗓 [Calendar](./calendar/)
 - [x] 💵 [Vending Machine](./vending-machine/)
-- [ ] 🛗 [Elevator](./elevator/)
-- [ ] 📚 [Library](./library)
-- [ ] 🌮 [Taco Stand](./tacoStand/)
+- [x] 🛗 [Elevator](./elevator/)
+- [x] 📚 [Library](./library)
+- [x] 🌮 [Taco Stand](./tacoStand/)
 - [ ] 🧶 [Crafting](./crafting/)
 - [ ] ✂️ [Barber Shop](./barber-shop/)
 - [ ] 🥗 [Meal Planning](./meal-planning/)
 - [ ] 🍜 [Restaurant](./restaurant/)
 - [ ] 🧖‍♀️ [Spa](./spa/)
 - [ ] 🎵 [Spotify](./spotify/)
-- [ ] 📼 [VHS](./vhs/)
+- [x] 📼 [VHS](./vhs/)
 
 - [x] Want to track your progress? First, make sure you're on a forked version of this repo. Then, you can edit the README and change `[ ]` to `[x]` on the suites you've completed!
 
