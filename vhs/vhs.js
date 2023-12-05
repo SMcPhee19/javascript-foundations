@@ -1,3 +1,10 @@
+function createTape(title, readyToPlay = false) {
+  return {
+    title,
+    readyToPlay
+  }
+}
 
-
-module.exports = {  }
+module.exports = { 
+  createTape
+}

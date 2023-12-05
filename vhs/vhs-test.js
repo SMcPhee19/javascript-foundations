@@ -3,13 +3,13 @@ var assert = require('chai').assert;
 
 describe("Tape", function() {
 
-  it.skip("should create tape", function() {
+  it("should create tape", function() {
     var genericTape = createTape("",false)
    
     assert.deepEqual(genericTape, {title:"", readyToPlay: false})
   })
 
-  it.skip("should have a title", function(){
+  it("should have a title", function(){
     var littleMermaid = createTape("The Little Mermaid", false)
     var landBeforeTime = createTape("The Land Before Time", false)
 
